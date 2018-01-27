@@ -5,10 +5,9 @@ data structures to be included:
 
 BST
 AVL Tree with the base tree being the BST class
-Doubly Linked List
+Doubly Linked List (possibly) 
 red-black tree
-
-to be added when finished in class:
-
 Heap data structure
 Hash Table
+
+also include sorting algorithms after sata structures have been added. 
